@@ -3,9 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Faiek</title>
+    <title></title>
 </head>
 <body>
-    
+    <?php
+echo " ich liebe die Natur!";
+?>
+
 </body>
 </html>
